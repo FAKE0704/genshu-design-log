@@ -6,7 +6,7 @@
 
 | 文件 | 内容 |
 |---|---|
-| [design-index.md](design-index.md) | **全量编号决策索引**：258 篇编号设计文档，每条一行摘要 + 状态 |
+| [design-index.md](design-index.md) | **全量编号决策索引**：255 篇编号设计文档，每条一行摘要 + 状态；**顶部含术语对照表**（索引保留原文惯用语，对照阅读） |
 | [01-kernel-migration.md](01-kernel-migration.md) | **内核迁移史**：自研引擎整体切换至 deepseek-harness 的全过程（85–114 号，P0 评估 → 三 spike 探路 → 一次性全切 → 八线迁移 → 旧引擎拆除） |
 | [02-kernel-patch-chain.md](02-kernel-patch-chain.md) | **内核补丁链**：fork 仓 9 环补丁的三态台账、每环解决的宿主问题、与上游的关系 |
 | [03-incident-reviews.md](03-incident-reviews.md) | **生产事故诊断精选**：十起真实事故的现象—根因—修复 |
